@@ -1,0 +1,3 @@
+[submodule "external/coq-tla"]
+	path = external/coq-tla
+	url = https://github.com/tchajed/coq-tla.git

@@ -1,0 +1,5 @@
+-Q src OneBit
+-Q external/coq-tla/src TLA
+-Q external/coq-tla/external/stdpp/stdpp stdpp
+-Q external/coq-tla/external/stdpp/stdpp_unstable stdpp.unstable
+-Q external/coq-tla/external/coq-record-update RecordUpdate
